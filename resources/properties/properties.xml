@@ -1,0 +1,7 @@
+<properties>
+    <property id="HoursColor" type="number">16777215</property>
+    <property id="MinutesColor" type="number">16777215</property>
+    <property id="ColonColor" type="number">16777215</property>
+    <property id="ShowColon" type="boolean">true</property>
+    <property id="HourlyFlag" type="boolean">true</property>
+</properties>
